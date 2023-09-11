@@ -1,2 +1,2 @@
 # Veebirepo
-Veebirakenduse aine repo
+Veebirakenduse aine repo, muutus
